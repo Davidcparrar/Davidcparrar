@@ -9,10 +9,11 @@ I am David. Chemical Engineer with broad interest in all topics Data. Have done 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=davidcparrar&show_icons=true&count_private=true&theme=merko" width="350"></a>
 </p>
+<!--
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcparrar&layout=compact&hide=html" width="350"></a>
 </p>
-
+-->
 <p align='center'>
     <a href="www.linkedin.com/in/davidc-parrar/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
