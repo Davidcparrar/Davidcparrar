@@ -40,7 +40,7 @@ I am David. Chemical Engineer with broad interest in all topics Data. Have done 
 
 <p align='center'>
     <a href="https://aws.amazon.com//">
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&   logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://circleci.com/">
     <img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
@@ -55,16 +55,32 @@ I am David. Chemical Engineer with broad interest in all topics Data. Have done 
   <a href="https://numpy.org/">
     <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/davidc-parrar/">
+  <a href="">
     <img src="https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/davidc-parrar/">
+  <a href="">
     <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/davidc-parrar/">
+  <a href="">
     <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/davidc-parrar/">
+  <a href="">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
   </a>&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache Airflow&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
 </p>
