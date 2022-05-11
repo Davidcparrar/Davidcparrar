@@ -1,6 +1,5 @@
-<h1 align='center'>
-  I am David. Chemical Engineer with broad interest in all topics Data. Have done some Data Science/ML, Data Engineering and some Backend Development. Looking to contribute in Open Source.
-</h1>
+
+I am David. Chemical Engineer with broad interest in all topics Data. Have done some Data Science/ML, Data Engineering and some Backend Development. Looking to contribute in Open Source.
 
 
 <p align='center'>
