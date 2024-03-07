@@ -8,7 +8,7 @@ Looking to contribute to Open Source.
 ```
 
 
-<p align='center'>
+<!--<p align='center'>
   <a href="#"><img src="https://readme-vercel-eta.vercel.app/api?username=davidcparrar&show_icons=true&count_private=true&theme=merko" width="350"></a>
 </p>
 <!--
@@ -16,7 +16,7 @@ Looking to contribute to Open Source.
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcparrar&layout=compact&hide=html" width="350"></a>
 </p>
 -->
-<p align='center'>
+<!--<p align='center'>
     <a href="https://linkedin.com/in/davidc-parrar/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -24,7 +24,7 @@ Looking to contribute to Open Source.
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
-
+-->
 ### Languages & Tools
 
 <p align='center'>
