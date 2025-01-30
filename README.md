@@ -1,12 +1,35 @@
 
-### About me
 ```bash
 davidcparrar@PC:~/ echo $DESCRIPTION | grep $ME
-I am David. Chemical Engineer with broad interest in all topics Data.
-Have done some Data Science/ML, Data Engineering and some Backend Development.
-Looking to contribute to Open Source.
 ```
+# 👋 About Me  
 
+Hi, I'm **David** – a Chemical Engineer turned **Data** and **Software** enthusiast, with a passion for learning, problem-solving, and building impactful solutions.  
+
+### 🌟 Areas of Expertise  
+- 🔍 **Data Science** & **Machine Learning**  
+  - Building predictive models and applying real-world insights.  
+- ⚙️ **Data Engineering**  
+  - Developing scalable data pipelines and managing complex workflows.  
+- 🛠️ **Backend Development**  
+  - Crafting APIs and services using **Python** (Django, Flask) and exploring **Rust** for high-performance applications.
+
+### 🛠️ Tech Stack & Skills  
+- ☁️ **Cloud**: AWS services (compute, storage, orchestration)  
+- 🗄️ **Databases**: PostgreSQL, relational & non-relational systems  
+- 🐍 **Languages**: Python, Rust, with curiosity for modern tech  
+
+### 🎯 Current Goals  
+- 🔧 **Contribute to Open Source** projects  
+- 🤝 Collaborate on meaningful data and software solutions  
+- 📚 Continuously grow and learn from the tech community  
+
+---
+
+### 📫 Let's Connect!  
+Feel free to reach out or connect with me. I’m always open to collaborations, new ideas, or just chatting about **Data**, **Rust**, or **AI innovations**!
+
+---
 
 <!--<p align='center'>
   <a href="#"><img src="https://readme-vercel-eta.vercel.app/api?username=davidcparrar&show_icons=true&count_private=true&theme=merko" width="350"></a>
