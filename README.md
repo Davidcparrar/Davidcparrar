@@ -4,30 +4,30 @@ davidcparrar@PC:~/ echo $DESCRIPTION | grep $ME
 ```
 # 👋 About Me  
 
-Hi, I'm **David** – a Chemical Engineer turned **Data** and **Software** enthusiast, with a passion for learning, problem-solving, and building impactful solutions.  
+Hi, I'm David – a Chemical Engineer turned Data and Software enthusiast, with a passion for learning, problem-solving, and building impactful solutions.  
 
-### 🌟 Areas of Expertise  
-- 🔍 **Data Science** & **Machine Learning**  
+### Areas of Expertise  
+- Data Science & Machine Learning
   - Building predictive models and applying real-world insights.  
-- ⚙️ **Data Engineering**  
+- Data Engineering
   - Developing scalable data pipelines and managing complex workflows.  
-- 🛠️ **Backend Development**  
-  - Crafting APIs and services using **Python** (Django, Flask) and exploring **Rust** for high-performance applications.
+- Backend Development
+  - Crafting APIs and services using Python (Django, Flask, FastAPI) and exploring Rust for high-performance applications.
 
-### 🛠️ Tech Stack & Skills  
-- ☁️ **Cloud**: AWS services (compute, storage, orchestration)  
-- 🗄️ **Databases**: PostgreSQL, relational & non-relational systems  
-- 🐍 **Languages**: Python, Rust, with curiosity for modern tech  
+### Tech Stack & Skills  
+- Cloud: AWS services (compute, storage, orchestration)  
+- Databases: PostgreSQL, relational & non-relational systems  
+- Languages: Python, Rust, Javascript
 
-### 🎯 Current Goals  
-- 🔧 **Contribute to Open Source** projects  
-- 🤝 Collaborate on meaningful data and software solutions  
-- 📚 Continuously grow and learn from the tech community  
+### Current Goals  
+- Contribute to Open Source projects  
+- Collaborate on meaningful data and software solutions  
+- Continuously grow and learn from the tech community  
 
 ---
 
 ### 📫 Let's Connect!  
-Feel free to reach out or connect with me. I’m always open to collaborations, new ideas, or just chatting about **Data**, **Rust**, or **AI innovations**!
+Feel free to reach out or connect with me. I’m always open to collaborations, new ideas, or just chatting about Data, Rust, or AI innovations!
 
 ---
 
