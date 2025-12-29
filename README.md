@@ -1,111 +1,33 @@
+## 👋 Hi, I’m David
 
-```bash
-davidcparrar@PC:~/ echo $DESCRIPTION | grep $ME
-```
-# 👋 About Me  
-
-Hi, I'm David – a Chemical Engineer turned Data and Software enthusiast, with a passion for learning, problem-solving, and building impactful solutions.  
-
-### Areas of Expertise  
-- Data Science & Machine Learning
-  - Building predictive models and applying real-world insights.  
-- Data Engineering
-  - Developing scalable data pipelines and managing complex workflows.  
-- Backend Development
-  - Crafting APIs and services using Python (Django, Flask, FastAPI) and exploring Rust for high-performance applications.
-
-### Tech Stack & Skills  
-- Cloud: AWS services (compute, storage, orchestration)  
-- Databases: PostgreSQL, relational & non-relational systems  
-- Languages: Python, Rust, Javascript
-
-### Current Goals  
-- Contribute to Open Source projects  
-- Collaborate on meaningful data and software solutions  
-- Continuously grow and learn from the tech community  
+Software and data engineer focused on building reliable, scalable systems.
+Background in chemical engineering, now working at the intersection of **data, backend systems, and applied machine learning**.
 
 ---
 
-### 📫 Let's Connect!  
-Feel free to reach out or connect with me. I’m always open to collaborations, new ideas, or just chatting about Data, Rust, or AI innovations!
+### What I Work On
+- Designing data-intensive systems and APIs
+- Building production-grade ML pipelines
+- Backend and platform engineering
+- Cloud-native infrastructure and automation
 
 ---
 
-<!--<p align='center'>
-  <a href="#"><img src="https://readme-vercel-eta.vercel.app/api?username=davidcparrar&show_icons=true&count_private=true&theme=merko" width="350"></a>
-</p>
-<!--
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcparrar&layout=compact&hide=html" width="350"></a>
-</p>
--->
-<!--<p align='center'>
-    <a href="https://linkedin.com/in/davidc-parrar/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/SmallF21">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
--->
-### Languages & Tools
+### Core Technologies
+**Languages:** Python, Rust, R  
+**Data & ML:** Pandas, NumPy, scikit-learn, TensorFlow  
+**Backend:** FastAPI, Django, REST APIs  
+**Infrastructure:** AWS, Docker, Linux, GitHub Actions  
+**Databases:** PostgreSQL, MySQL, MongoDB  
 
-<p align='center'>
-    <a href="https://rust-lang.org/">
-    <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.r-project.org/">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
+---
 
+### Current Interests
+- High-performance systems in Rust  
+- Scalable data platforms  
+- Applied ML beyond notebooks  
+- Developer experience & tooling  
 
-<p align='center'>
-    <a href="https://aws.amazon.com//">
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://circleci.com/">
-    <img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/features/actions">
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-    <a href="https://www.tensorflow.org/">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://numpy.org/">
-    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache Airflow&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  
-</p>
+---
+
+📫 Open to collaboration, open-source work, and interesting engineering problems.
