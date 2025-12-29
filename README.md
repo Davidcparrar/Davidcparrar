@@ -51,8 +51,8 @@ Feel free to reach out or connect with me. I’m always open to collaborations, 
 ### Languages & Tools
 
 <p align='center'>
-    <a href="https://www.cplusplus.com/">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <a href="https://rust-lang.org/">
+    <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
