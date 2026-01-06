@@ -15,16 +15,16 @@ Background in chemical engineering, now working at the intersection of **data pl
 ### Core Technologies
 
 **Languages**
-- Python, Rust, R
+- Python, Rust, Typescript
 
 **Data & ML**
-- Polars  
+- Polars/Pandas  
 - Apache Airflow  
 - LLM tooling (OpenAI SDKs, Google ADK)
 
 **Backend & Infrastructure**
-- FastAPI, REST APIs  
-- AWS, Docker, Linux  
+- FastAPI, Django, Axum REST APIs  
+- AWS, Docker, Linux. Kubernetes  
 - PostgreSQL, MongoDB  
 
 ---
